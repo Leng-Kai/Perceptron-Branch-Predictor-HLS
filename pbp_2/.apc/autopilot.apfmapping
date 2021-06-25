@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="perceptronBranchPredictor.h" path="C:\Users\lin\Desktop\HLS_Final\pbp_2\perceptronBranchPredictor.h"/>
+    <originFiles name="perceptronBranchPredictor.cpp" path="C:\Users\lin\Desktop\HLS_Final\pbp_2\perceptronBranchPredictor.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="testbench.cpp" path="C:\Users\lin\Desktop\HLS_Final\pbp_2\testbench.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

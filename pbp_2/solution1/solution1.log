@@ -1,0 +1,1195 @@
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:03 ; elapsed = 00:00:14 . Memory (MB): peak = 955.027 ; gain = 861.590
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:03 ; elapsed = 00:00:14 . Memory (MB): peak = 955.027 ; gain = 861.590
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:03 ; elapsed = 00:00:15 . Memory (MB): peak = 955.027 ; gain = 861.590
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:15 . Memory (MB): peak = 955.027 ; gain = 861.590
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:14).
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'process' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:46:37).
+INFO: [HLS 200-489] Unrolling loop 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:23) in function 'update' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'shift_reg' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:39) in function 'update' completely with a factor of 31.
+INFO: [HLS 200-489] Unrolling loop 'predict' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:51) in function 'process' completely with a factor of 16.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:46:24) to (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:71:1) in function 'process'... converting 81 basic blocks.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:16 . Memory (MB): peak = 955.027 ; gain = 861.590
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:28:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'bht' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40:9)
+INFO: [HLS 200-472] Inferring partial write operation for 'bht' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:42:18)
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:16 . Memory (MB): peak = 955.027 ; gain = 861.590
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'top' ...
+WARNING: [SYN 201-103] Legalizing function name 'process' to 'process_r'.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'process_r' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'process'.
+WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('bht_load_33', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:52) on array 'bht' due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'bht'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 16, Depth = 18.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 16.747 seconds; current allocated memory: 139.643 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.217 seconds; current allocated memory: 140.498 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'update' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'update'.
+WARNING: [SCHED 204-68] The II Violation in module 'update' (Function: update): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_addr_write_ln20', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20) of variable 'add_ln701', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20 on array 'perceptron_V' and 'load' operation ('t.V', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18) on array 'perceptron_V'.
+WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('bht_load_4', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:24) on array 'bht' due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'bht'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 32, Depth = 32.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 1.1 seconds; current allocated memory: 142.880 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.454 seconds; current allocated memory: 144.642 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'top'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 32, distance = 1, offset = 1)
+   between 'call' operation ('_ln80', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:80) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79) to 'process'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 33, distance = 1, offset = 1)
+   between 'call' operation ('_ln80', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:80) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79) to 'process'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 34, distance = 1, offset = 1)
+   between 'call' operation ('_ln80', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:80) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79) to 'process'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 35, distance = 1, offset = 1)
+   between 'call' operation ('_ln80', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:80) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79) to 'process'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 48, distance = 1, offset = 1)
+   between 'call' operation ('_ln80', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:80) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79) to 'process'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 49, distance = 1, offset = 1)
+   between 'call' operation ('_ln80', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:80) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79) to 'process'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 50, Depth = 50.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 0.531 seconds; current allocated memory: 144.897 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.256 seconds; current allocated memory: 145.285 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'process_r' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Finished creating RTL model for 'process_r'.
+INFO: [HLS 200-111]  Elapsed time: 0.318 seconds; current allocated memory: 146.884 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'update' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Finished creating RTL model for 'update'.
+INFO: [HLS 200-111]  Elapsed time: 0.885 seconds; current allocated memory: 152.230 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/pc_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/isBranch_V' to 's_axilite & ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/result_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'top' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'pd' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'dp' is power-on initialization.
+INFO: [RTGEN 206-100] Bundling port 'pc_V', 'isBranch_V' and 'result_V' to AXI-Lite port bp0.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'top'.
+INFO: [HLS 200-111]  Elapsed time: 1.185 seconds; current allocated memory: 161.088 MB.
+INFO: [HLS 200-789] **** Estimated Fmax: 121.32 MHz
+INFO: [RTMG 210-278] Implementing memory 'top_perceptron_V_ram (RAM)' using block RAMs with power-on initialization.
+INFO: [RTMG 210-278] Implementing memory 'top_bht_ram (RAM)' using block RAMs with power-on initialization.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:09 ; elapsed = 00:00:23 . Memory (MB): peak = 955.027 ; gain = 861.590
+INFO: [VHDL 208-304] Generating VHDL RTL for top.
+INFO: [VLOG 209-307] Generating Verilog RTL for top.
+INFO: [HLS 200-112] Total elapsed time: 23.468 seconds; peak allocated memory: 161.088 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:03 ; elapsed = 00:00:15 . Memory (MB): peak = 954.973 ; gain = 860.715
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:03 ; elapsed = 00:00:15 . Memory (MB): peak = 954.973 ; gain = 860.715
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:03 ; elapsed = 00:00:16 . Memory (MB): peak = 954.973 ; gain = 860.715
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:16 . Memory (MB): peak = 954.973 ; gain = 860.715
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:14).
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'process' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:46:14).
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:72) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:77) because its parent loop or function is pipelined.
+INFO: [HLS 200-489] Unrolling loop 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:23) in function 'update' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'shift_reg' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:39) in function 'update' completely with a factor of 31.
+INFO: [HLS 200-489] Unrolling loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:72) in function 'process' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:77) in function 'process' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:82) in function 'process' completely with a factor of 16.
+INFO: [XFORM 203-101] Partitioning array 'weight.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:67) in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'sign.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:68) in dimension 1 completely.
+INFO: [XFORM 203-11] Balancing expressions in function 'process' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:46:1)...31 expression(s) balanced.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:17 . Memory (MB): peak = 954.973 ; gain = 860.715
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:28:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'bht' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40:9)
+INFO: [HLS 200-472] Inferring partial write operation for 'bht' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:42:18)
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:18 . Memory (MB): peak = 954.973 ; gain = 860.715
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'top' ...
+WARNING: [SYN 201-103] Legalizing function name 'process' to 'process_r'.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'process_r' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'process'.
+WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('bht_load_25', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74) on array 'bht' due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'bht'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 16, Depth = 19.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 18.034 seconds; current allocated memory: 142.833 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.237 seconds; current allocated memory: 143.600 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'update' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'update'.
+WARNING: [SCHED 204-68] The II Violation in module 'update' (Function: update): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_addr_write_ln20', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20) of variable 'add_ln701', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20 on array 'perceptron_V' and 'load' operation ('t.V', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18) on array 'perceptron_V'.
+WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('bht_load_4', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:24) on array 'bht' due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'bht'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 32, Depth = 32.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 1.096 seconds; current allocated memory: 145.929 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.445 seconds; current allocated memory: 147.691 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'top'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 32, distance = 1, offset = 1)
+   between 'call' operation ('_ln100', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:99) to 'process'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 33, distance = 1, offset = 1)
+   between 'call' operation ('_ln100', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:99) to 'process'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 34, distance = 1, offset = 1)
+   between 'call' operation ('_ln100', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:99) to 'process'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 35, distance = 1, offset = 1)
+   between 'call' operation ('_ln100', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:99) to 'process'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 48, distance = 1, offset = 1)
+   between 'call' operation ('_ln100', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:99) to 'process'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 49, distance = 1, offset = 1)
+   between 'call' operation ('_ln100', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:99) to 'process'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 50, distance = 1, offset = 1)
+   between 'call' operation ('_ln100', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) to 'update' and 'call' operation ('call_ret', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:99) to 'process'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 51, Depth = 51.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 0.531 seconds; current allocated memory: 147.950 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.239 seconds; current allocated memory: 148.288 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'process_r' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Finished creating RTL model for 'process_r'.
+INFO: [HLS 200-111]  Elapsed time: 0.264 seconds; current allocated memory: 149.970 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'update' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Finished creating RTL model for 'update'.
+INFO: [HLS 200-111]  Elapsed time: 0.794 seconds; current allocated memory: 155.460 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/pc_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/isBranch_V' to 's_axilite & ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/result_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'top' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'pd' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'dp' is power-on initialization.
+INFO: [RTGEN 206-100] Bundling port 'pc_V', 'isBranch_V' and 'result_V' to AXI-Lite port bp0.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'top'.
+INFO: [HLS 200-111]  Elapsed time: 1.189 seconds; current allocated memory: 164.316 MB.
+INFO: [HLS 200-789] **** Estimated Fmax: 116.36 MHz
+INFO: [RTMG 210-278] Implementing memory 'top_perceptron_V_ram (RAM)' using block RAMs with power-on initialization.
+INFO: [RTMG 210-278] Implementing memory 'top_bht_ram (RAM)' using block RAMs with power-on initialization.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:09 ; elapsed = 00:00:24 . Memory (MB): peak = 954.973 ; gain = 860.715
+INFO: [VHDL 208-304] Generating VHDL RTL for top.
+INFO: [VLOG 209-307] Generating Verilog RTL for top.
+INFO: [HLS 200-112] Total elapsed time: 24.534 seconds; peak allocated memory: 164.316 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:03 ; elapsed = 00:00:16 . Memory (MB): peak = 955.641 ; gain = 862.488
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:03 ; elapsed = 00:00:16 . Memory (MB): peak = 955.641 ; gain = 862.488
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'process' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100).
+INFO: [XFORM 203-603] Inlining function 'update' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:101).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:03 ; elapsed = 00:00:17 . Memory (MB): peak = 955.641 ; gain = 862.488
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:17 . Memory (MB): peak = 955.641 ; gain = 862.488
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:93).
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:72) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:77) because its parent loop or function is pipelined.
+INFO: [HLS 200-489] Unrolling loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:72) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:77) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:82) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:23) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'shift_reg' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:39) in function 'top' completely with a factor of 31.
+INFO: [XFORM 203-101] Partitioning array 'weight.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:67) in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'sign.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:68) in dimension 1 completely.
+INFO: [XFORM 203-11] Balancing expressions in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:93)...31 expression(s) balanced.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:17 . Memory (MB): peak = 955.641 ; gain = 862.488
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:28:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'bht' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40:9)
+INFO: [HLS 200-472] Inferring partial write operation for 'bht' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:42:18)
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:05 ; elapsed = 00:00:18 . Memory (MB): peak = 955.641 ; gain = 862.488
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'top' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'top'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'store' operation ('0_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:101) of variable 'bht_load_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100 on array 'bht' and 'load' operation ('bht_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) on array 'bht'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)
+   between 'store' operation ('0_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:101) of variable 'bht_load_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100 on array 'bht' and 'load' operation ('bht_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) on array 'bht'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 1)
+   between 'store' operation ('0_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:101) of variable 'bht_load_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100 on array 'bht' and 'load' operation ('bht_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) on array 'bht'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 4, distance = 1, offset = 1)
+   between 'store' operation ('30_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:101) of variable 'bht_load_31', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100 on array 'bht' and 'load' operation ('bht_load_15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) on array 'bht'.
+WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('bht_load_6', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) on array 'bht' due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'bht'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 34, Depth = 35.
+WARNING: [SCHED 204-21] Estimated clock period (9.22475ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns).
+WARNING: [SCHED 204-21] The critical path in module 'top' consists of the following:
+	'add' operation ('add_ln84_6', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:84->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) [324]  (1.87 ns)
+	'add' operation ('add_ln84_15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:84->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) [342]  (1.92 ns)
+	'sub' operation ('sub_ln88', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:88->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) [345]  (1.82 ns)
+	'select' operation ('select_ln88', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:88->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:100) [346]  (0 ns)
+	'icmp' operation ('icmp_ln15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:15->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:101) [350]  (1.66 ns)
+	'and' operation ('and_ln15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:15->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:101) [351]  (0.978 ns)
+	blocking operation 0.978 ns on control path)
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 45.121 seconds; current allocated memory: 129.445 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.657 seconds; current allocated memory: 131.984 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/pc_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/isBranch_V' to 's_axilite & ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/result_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'top' to 'ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'pc_V', 'isBranch_V' and 'result_V' to AXI-Lite port bp0.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'top'.
+INFO: [HLS 200-111]  Elapsed time: 0.909 seconds; current allocated memory: 136.600 MB.
+INFO: [HLS 200-789] **** Estimated Fmax: 108.40 MHz
+INFO: [RTMG 210-278] Implementing memory 'top_perceptron_V_ram (RAM)' using block RAMs with power-on initialization.
+INFO: [RTMG 210-278] Implementing memory 'top_bht_ram (RAM)' using block RAMs with power-on initialization.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:35 ; elapsed = 00:00:50 . Memory (MB): peak = 955.641 ; gain = 862.488
+INFO: [VHDL 208-304] Generating VHDL RTL for top.
+INFO: [VLOG 209-307] Generating Verilog RTL for top.
+INFO: [HLS 200-112] Total elapsed time: 49.821 seconds; peak allocated memory: 136.600 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+ERROR: [HLS 214-122] '#pragma HLS' is only allowed in function scope: C:\Users\lin\Desktop\HLS_Final\pbp_2\perceptronBranchPredictor.cpp:14
+ERROR: [HLS 214-122] '#pragma HLS' is only allowed in function scope: C:\Users\lin\Desktop\HLS_Final\pbp_2\perceptronBranchPredictor.cpp:15
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:03 ; elapsed = 00:00:15 . Memory (MB): peak = 955.000 ; gain = 861.453
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:03 ; elapsed = 00:00:15 . Memory (MB): peak = 955.000 ; gain = 861.453
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'process' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86).
+INFO: [XFORM 203-603] Inlining function 'update' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:03 ; elapsed = 00:00:16 . Memory (MB): peak = 955.000 ; gain = 861.453
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:16 . Memory (MB): peak = 955.000 ; gain = 861.453
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79).
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:63) because its parent loop or function is pipelined.
+INFO: [HLS 200-489] Unrolling loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:63) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:68) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:23) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'shift_reg' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:39) in function 'top' completely with a factor of 31.
+WARNING: [XFORM 203-104] Completely partitioning array 'perceptron.V'  accessed through non-constant indices on dimension 1 (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:32), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
+INFO: [XFORM 203-101] Partitioning array 'perceptron.V'  in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'bht'  in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'weight.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:51) in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'sign.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:52) in dimension 1 completely.
+INFO: [XFORM 203-11] Balancing expressions in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79)...31 expression(s) balanced.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:20 ; elapsed = 00:00:33 . Memory (MB): peak = 955.000 ; gain = 861.453
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:28:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18:61)
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:56 ; elapsed = 00:01:09 . Memory (MB): peak = 955.000 ; gain = 861.453
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'top' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'top'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'store' operation ('32_write_ln20', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:49->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)
+   between 'store' operation ('32_write_ln20', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:49->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 1)
+   between 'store' operation ('32_write_ln20', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:49->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 4, distance = 1, offset = 1)
+   between 'store' operation ('1_write_ln26', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701_2', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operati==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:03 ; elapsed = 00:00:16 . Memory (MB): peak = 955.141 ; gain = 861.414
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:03 ; elapsed = 00:00:16 . Memory (MB): peak = 955.141 ; gain = 861.414
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'process' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86).
+INFO: [XFORM 203-603] Inlining function 'update' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:03 ; elapsed = 00:00:17 . Memory (MB): peak = 955.141 ; gain = 861.414
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:17 . Memory (MB): peak = 955.141 ; gain = 861.414
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79).
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:63) because its parent loop or function is pipelined.
+INFO: [HLS 200-489] Unrolling loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:63) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:68) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:23) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'shift_reg' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:39) in function 'top' completely with a factor of 31.
+INFO: [XFORM 203-101] Partitioning array 'weight.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:51) in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'sign.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:52) in dimension 1 completely.
+INFO: [XFORM 203-11] Balancing expressions in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79)...31 expression(s) balanced.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:18 . Memory (MB): peak = 955.141 ; gain = 861.414
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:28:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'bht' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40:9)
+INFO: [HLS 200-472] Inferring partial write operation for 'bht' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:42:18)
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:05 ; elapsed = 00:00:19 . Memory (MB): peak = 955.141 ; gain = 861.414
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'top' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'top'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'store' operation ('0_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'bht_load_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86 on array 'bht' and 'load' operation ('bht_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'bht'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)
+   between 'store' operation ('0_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'bht_load_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86 on array 'bht' and 'load' operation ('bht_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'bht'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 1)
+   between 'store' operation ('0_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'bht_load_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86 on array 'bht' and 'load' operation ('bht_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'bht'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 4, distance = 1, offset = 1)
+   between 'store' operation ('30_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'bht_load_31', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86 on array 'bht' and 'load' operation ('bht_load_15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'bht'.
+WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('bht_load_6', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'bht' due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'bht'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 34, Depth = 35.
+WARNING: [SCHED 204-21] Estimated clock period (9.22475ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns).
+WARNING: [SCHED 204-21] The critical path in module 'top' consists of the following:
+	'add' operation ('add_ln70_6', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:70->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) [324]  (1.87 ns)
+	'add' operation ('add_ln70_15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:70->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) [342]  (1.92 ns)
+	'sub' operation ('sub_ln74', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) [345]  (1.82 ns)
+	'select' operation ('select_ln74', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:74->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) [346]  (0 ns)
+	'icmp' operation ('icmp_ln15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:15->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) [350]  (1.66 ns)
+	'and' operation ('and_ln15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:15->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) [351]  (0.978 ns)
+	blocking operation 0.978 ns on control path)
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 47.495 seconds; current allocated memory: 129.413 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.723 seconds; current allocated memory: 131.952 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/pc_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/isBranch_V' to 's_axilite & ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/result_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'top' to 'ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'pc_V', 'isBranch_V' and 'result_V' to AXI-Lite port bp0.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'top'.
+INFO: [HLS 200-111]  Elapsed time: 1.02 seconds; current allocated memory: 136.568 MB.
+INFO: [HLS 200-789] **** Estimated Fmax: 108.40 MHz
+INFO: [RTMG 210-278] Implementing memory 'top_perceptron_V_ram (RAM)' using block RAMs with power-on initialization.
+INFO: [RTMG 210-278] Implementing memory 'top_bht_ram (RAM)' using block RAMs with power-on initialization.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:37 ; elapsed = 00:00:53 . Memory (MB): peak = 955.141 ; gain = 861.414
+INFO: [VHDL 208-304] Generating VHDL RTL for top.
+INFO: [VLOG 209-307] Generating Verilog RTL for top.
+INFO: [HLS 200-112] Total elapsed time: 52.61 seconds; peak allocated memory: 136.568 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:03 ; elapsed = 00:00:13 . Memory (MB): peak = 955.543 ; gain = 861.637
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:03 ; elapsed = 00:00:13 . Memory (MB): peak = 955.543 ; gain = 861.637
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'process' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86).
+INFO: [XFORM 203-603] Inlining function 'update' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:03 ; elapsed = 00:00:14 . Memory (MB): peak = 955.543 ; gain = 861.637
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:14 . Memory (MB): peak = 955.543 ; gain = 861.637
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79).
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:63) because its parent loop or function is pipelined.
+INFO: [HLS 200-489] Unrolling loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:63) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:68) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:23) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'shift_reg' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:39) in function 'top' completely with a factor of 31.
+WARNING: [XFORM 203-104] Completely partitioning array 'perceptron.V'  accessed through non-constant indices on dimension 1 (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:32), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
+INFO: [XFORM 203-101] Partitioning array 'perceptron.V'  in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'bht'  in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'weight.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:51) in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'sign.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:52) in dimension 1 completely.
+INFO: [XFORM 203-11] Balancing expressions in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79)...31 expression(s) balanced.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:22 ; elapsed = 00:00:33 . Memory (MB): peak = 955.543 ; gain = 861.637
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:28:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18:61)
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:01:00 ; elapsed = 00:01:11 . Memory (MB): peak = 955.543 ; gain = 861.637
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'top' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'top'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'store' operation ('32_write_ln20', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:49->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)
+   between 'store' operation ('32_write_ln20', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:49->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 1)
+   between 'store' operation ('32_write_ln20', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:49->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 4, distance = 1, offset = 1)
+   between 'store' operation ('1_write_ln26', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701_2', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operati==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:03 ; elapsed = 00:00:15 . Memory (MB): peak = 955.637 ; gain = 862.391
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:03 ; elapsed = 00:00:15 . Memory (MB): peak = 955.637 ; gain = 862.391
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'process' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89).
+INFO: [XFORM 203-603] Inlining function 'update' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:03 ; elapsed = 00:00:16 . Memory (MB): peak = 955.637 ; gain = 862.391
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:04 ; elapsed = 00:00:16 . Memory (MB): peak = 955.637 ; gain = 862.391
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:82).
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:64) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:70) because its parent loop or function is pipelined.
+INFO: [HLS 200-489] Unrolling loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:64) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:70) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:23) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'shift_reg' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:39) in function 'top' completely with a factor of 31.
+INFO: [XFORM 203-101] Partitioning array 'weight.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:51) in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'sign.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:52) in dimension 1 completely.
+INFO: [XFORM 203-11] Balancing expressions in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:82)...31 expression(s) balanced.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:17 . Memory (MB): peak = 955.637 ; gain = 862.391
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:28:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'bht' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40:9)
+INFO: [HLS 200-472] Inferring partial write operation for 'bht' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:42:18)
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:05 ; elapsed = 00:00:17 . Memory (MB): peak = 955.637 ; gain = 862.391
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'top' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'top'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'store' operation ('0_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) of variable 'bht_load_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89 on array 'bht' and 'load' operation ('bht_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'bht'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)
+   between 'store' operation ('0_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) of variable 'bht_load_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89 on array 'bht' and 'load' operation ('bht_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'bht'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 1)
+   between 'store' operation ('0_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) of variable 'bht_load_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89 on array 'bht' and 'load' operation ('bht_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'bht'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 4, distance = 1, offset = 1)
+   between 'store' operation ('30_write_ln40', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:40->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) of variable 'bht_load_31', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89 on array 'bht' and 'load' operation ('bht_load_15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'bht'.
+WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('bht_load_6', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'bht' due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'bht'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 34, Depth = 35.
+WARNING: [SCHED 204-21] Estimated clock period (9.22475ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns).
+WARNING: [SCHED 204-21] The critical path in module 'top' consists of the following:
+	'add' operation ('add_ln73_6', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:73->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) [324]  (1.87 ns)
+	'add' operation ('add_ln73_15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:73->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) [342]  (1.92 ns)
+	'sub' operation ('sub_ln77', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:77->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) [345]  (1.82 ns)
+	'select' operation ('select_ln77', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:77->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) [346]  (0 ns)
+	'icmp' operation ('icmp_ln15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:15->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) [350]  (1.66 ns)
+	'and' operation ('and_ln15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:15->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) [351]  (0.978 ns)
+	blocking operation 0.978 ns on control path)
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 44.164 seconds; current allocated memory: 129.449 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.702 seconds; current allocated memory: 131.988 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/pc_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/isBranch_V' to 's_axilite & ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/result_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'top' to 'ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'pc_V', 'isBranch_V' and 'result_V' to AXI-Lite port bp0.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'top'.
+INFO: [HLS 200-111]  Elapsed time: 0.919 seconds; current allocated memory: 136.604 MB.
+INFO: [HLS 200-789] **** Estimated Fmax: 108.40 MHz
+INFO: [RTMG 210-278] Implementing memory 'top_perceptron_V_ram (RAM)' using block RAMs with power-on initialization.
+INFO: [RTMG 210-278] Implementing memory 'top_bht_ram (RAM)' using block RAMs with power-on initialization.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:35 ; elapsed = 00:00:49 . Memory (MB): peak = 955.637 ; gain = 862.391
+INFO: [VHDL 208-304] Generating VHDL RTL for top.
+INFO: [VLOG 209-307] Generating Verilog RTL for top.
+INFO: [HLS 200-112] Total elapsed time: 48.896 seconds; peak allocated memory: 136.604 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:03 ; elapsed = 00:00:12 . Memory (MB): peak = 955.801 ; gain = 862.156
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:03 ; elapsed = 00:00:12 . Memory (MB): peak = 955.801 ; gain = 862.156
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'process' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89).
+INFO: [XFORM 203-603] Inlining function 'update' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:03 ; elapsed = 00:00:13 . Memory (MB): peak = 955.801 ; gain = 862.156
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:13 . Memory (MB): peak = 955.801 ; gain = 862.156
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:82).
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:64) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:70) because its parent loop or function is pipelined.
+INFO: [HLS 200-489] Unrolling loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:64) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:70) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:23) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'shift_reg' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:39) in function 'top' completely with a factor of 31.
+INFO: [XFORM 203-101] Partitioning array 'bht'  in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'weight.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:51) in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'sign.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:52) in dimension 1 completely.
+INFO: [XFORM 203-11] Balancing expressions in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:82)...31 expression(s) balanced.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:14 . Memory (MB): peak = 955.801 ; gain = 862.156
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:28:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:69)
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:05 ; elapsed = 00:00:15 . Memory (MB): peak = 955.801 ; gain = 862.156
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'top' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'top'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_addr_write_ln20', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) of variable 'add_ln701', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90 on array 'perceptron_V' and 'load' operation ('t.V', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:49->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'perceptron_V'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_addr_write_ln20', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) of variable 'add_ln701', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90 on array 'perceptron_V' and 'load' operation ('t.V', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:49->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'perceptron_V'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_addr_write_ln20', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) of variable 'add_ln701', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90 on array 'perceptron_V' and 'load' operation ('perceptron_V_load_16', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'perceptron_V'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 4, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_addr_18_write_ln26', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) of variable 'add_ln701_2', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90 on array 'perceptron_V' and 'load' operation ('perceptron_V_load_16', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'perceptron_V'.
+WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('perceptron_V_load_6', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'perceptron_V' due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'perceptron_V'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 26, Depth = 27.
+WARNING: [SCHED 204-21] Estimated clock period (9.22475ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns).
+WARNING: [SCHED 204-21] The critical path in module 'top' consists of the following:
+	'add' operation ('add_ln73_6', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:73->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) [357]  (1.87 ns)
+	'add' operation ('add_ln73_15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:73->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) [375]  (1.92 ns)
+	'sub' operation ('sub_ln77', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:77->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) [378]  (1.82 ns)
+	'select' operation ('select_ln77', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:77->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) [379]  (0 ns)
+	'icmp' operation ('icmp_ln15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:15->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) [383]  (1.66 ns)
+	'and' operation ('and_ln15', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:15->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) [384]  (0.978 ns)
+	blocking operation 0.978 ns on control path)
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 24.252 seconds; current allocated memory: 129.429 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.655 seconds; current allocated memory: 132.064 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/pc_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/isBranch_V' to 's_axilite & ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/result_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'top' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'bht_0' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_1' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_2' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_3' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_4' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_5' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_6' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_7' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_8' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_9' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_10' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_11' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_12' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_13' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_14' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_15' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_16' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_17' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_18' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_19' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_20' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_21' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_22' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_23' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_24' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_25' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_26' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_27' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_28' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_29' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_30' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_31' is power-on initialization.
+INFO: [RTGEN 206-100] Bundling port 'pc_V', 'isBranch_V' and 'result_V' to AXI-Lite port bp0.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'top'.
+INFO: [HLS 200-111]  Elapsed time: 1.346 seconds; current allocated memory: 136.567 MB.
+INFO: [HLS 200-789] **** Estimated Fmax: 108.40 MHz
+INFO: [RTMG 210-278] Implementing memory 'top_perceptron_V_ram (RAM)' using block RAMs with power-on initialization.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:18 ; elapsed = 00:00:29 . Memory (MB): peak = 955.801 ; gain = 862.156
+INFO: [VHDL 208-304] Generating VHDL RTL for top.
+INFO: [VLOG 209-307] Generating Verilog RTL for top.
+INFO: [HLS 200-112] Total elapsed time: 29.4 seconds; peak allocated memory: 136.567 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:03 ; elapsed = 00:00:12 . Memory (MB): peak = 955.598 ; gain = 861.773
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:03 ; elapsed = 00:00:12 . Memory (MB): peak = 955.598 ; gain = 861.773
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'process' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89).
+INFO: [XFORM 203-603] Inlining function 'update' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:03 ; elapsed = 00:00:13 . Memory (MB): peak = 955.598 ; gain = 861.773
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:13 . Memory (MB): peak = 955.598 ; gain = 861.773
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:82).
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:64) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:70) because its parent loop or function is pipelined.
+INFO: [HLS 200-489] Unrolling loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:64) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:70) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:23) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'shift_reg' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:39) in function 'top' completely with a factor of 31.
+WARNING: [XFORM 203-104] Completely partitioning array 'perceptron.V'  accessed through non-constant indices on dimension 2 (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61:79), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
+INFO: [XFORM 203-101] Partitioning array 'perceptron.V'  in dimension 2 completely.
+INFO: [XFORM 203-101] Partitioning array 'bht'  in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'weight.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:51) in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'sign.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:52) in dimension 1 completely.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock to (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:15:9) in function 'top'... converting 49 basic blocks.
+INFO: [XFORM 203-11] Balancing expressions in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:82)...31 expression(s) balanced.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:14 . Memory (MB): peak = 955.598 ; gain = 861.773
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.32' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.32' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:28:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:69)
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:05 ; elapsed = 00:00:15 . Memory (MB): peak = 955.598 ; gain = 861.773
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'top' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'top'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_0_addr_write_ln32', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) of variable 'add_ln701_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'perceptron_V_0'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_0_addr_write_ln32', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) of variable 'add_ln701_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'perceptron_V_0'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_30_addr_write_ln32', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90) of variable 'add_ln701_31', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:90 on array 'perceptron_V_30' and 'load' operation ('perceptron_V_30_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:61->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:89) on array 'perceptron_V_30'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 4, Depth = 4.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 15.237 seconds; current allocated memory: 125.989 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.514 seconds; current allocated memory: 128.481 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/pc_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/isBranch_V' to 's_axilite & ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/result_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'top' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'bht_0' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_1' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_2' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_3' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_4' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_5' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_6' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_7' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_8' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_9' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_10' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_11' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_12' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_13' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_14' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_15' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_16' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_17' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_18' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_19' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_20' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_21' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_22' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_23' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_24' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_25' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_26' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_27' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_28' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_29' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_30' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_31' is power-on initialization.
+INFO: [RTGEN 206-100] Bundling port 'pc_V', 'isBranch_V' and 'result_V' to AXI-Lite port bp0.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'top'.
+INFO: [HLS 200-111]  Elapsed time: 1.055 seconds; current allocated memory: 132.234 MB.
+INFO: [HLS 200-789] **** Estimated Fmax: 121.26 MHz
+INFO: [RTMG 210-278] Implementing memory 'top_perceptron_V_32_ram (RAM)' using distributed RAMs with power-on initialization.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:08 ; elapsed = 00:00:20 . Memory (MB): peak = 955.598 ; gain = 861.773
+INFO: [VHDL 208-304] Generating VHDL RTL for top.
+INFO: [VLOG 209-307] Generating Verilog RTL for top.
+INFO: [HLS 200-112] Total elapsed time: 20.102 seconds; peak allocated memory: 132.234 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:03 ; elapsed = 00:00:12 . Memory (MB): peak = 955.836 ; gain = 862.938
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:03 ; elapsed = 00:00:12 . Memory (MB): peak = 955.836 ; gain = 862.938
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'process' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86).
+INFO: [XFORM 203-603] Inlining function 'update' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:03 ; elapsed = 00:00:13 . Memory (MB): peak = 955.836 ; gain = 862.938
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:13 . Memory (MB): peak = 955.836 ; gain = 862.938
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79).
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:63) because its parent loop or function is pipelined.
+INFO: [HLS 200-489] Unrolling loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:63) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:68) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:23) in function 'top' completely with a factor of 16.
+INFO: [HLS 200-489] Unrolling loop 'shift_reg' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:39) in function 'top' completely with a factor of 31.
+WARNING: [XFORM 203-104] Completely partitioning array 'perceptron.V'  accessed through non-constant indices on dimension 2 (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60:79), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
+INFO: [XFORM 203-101] Partitioning array 'perceptron.V'  in dimension 2 completely.
+INFO: [XFORM 203-101] Partitioning array 'bht'  in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'weight.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:51) in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'sign.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:52) in dimension 1 completely.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock to (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:15:9) in function 'top'... converting 49 basic blocks.
+INFO: [XFORM 203-11] Balancing expressions in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79)...31 expression(s) balanced.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:14 . Memory (MB): peak = 955.836 ; gain = 862.938
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.32' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.32' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20:61)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:28:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:69)
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:05 ; elapsed = 00:00:15 . Memory (MB): peak = 955.836 ; gain = 862.938
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'top' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'top'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_0_addr_write_ln32', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_0_addr_write_ln32', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_30_addr_write_ln32', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701_31', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_30' and 'load' operation ('perceptron_V_30_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_30'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 4, Depth = 4.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 15.275 seconds; current allocated memory: 125.986 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.529 seconds; current allocated memory: 128.478 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/pc_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/isBranch_V' to 's_axilite & ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/result_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'top' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'bht_0' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_1' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_2' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_3' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_4' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_5' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_6' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_7' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_8' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_9' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_10' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_11' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_12' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_13' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_14' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_15' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_16' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_17' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_18' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_19' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_20' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_21' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_22' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_23' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_24' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_25' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_26' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_27' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_28' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_29' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_30' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_31' is power-on initialization.
+INFO: [RTGEN 206-100] Bundling port 'pc_V', 'isBranch_V' and 'result_V' to AXI-Lite port bp0.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'top'.
+INFO: [HLS 200-111]  Elapsed time: 1.057 seconds; current allocated memory: 132.231 MB.
+INFO: [HLS 200-789] **** Estimated Fmax: 121.26 MHz
+INFO: [RTMG 210-278] Implementing memory 'top_perceptron_V_32_ram (RAM)' using distributed RAMs with power-on initialization.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:08 ; elapsed = 00:00:20 . Memory (MB): peak = 955.836 ; gain = 862.938
+INFO: [VHDL 208-304] Generating VHDL RTL for top.
+INFO: [VLOG 209-307] Generating Verilog RTL for top.
+INFO: [HLS 200-112] Total elapsed time: 20.146 seconds; peak allocated memory: 132.231 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file '../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:03 ; elapsed = 00:00:12 . Memory (MB): peak = 955.164 ; gain = 860.773
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:03 ; elapsed = 00:00:12 . Memory (MB): peak = 955.164 ; gain = 860.773
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'process' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86).
+INFO: [XFORM 203-603] Inlining function 'update' into 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:03 ; elapsed = 00:00:13 . Memory (MB): peak = 955.164 ; gain = 860.773
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:13 . Memory (MB): peak = 955.164 ; gain = 860.773
+INFO: [XFORM 203-502] Unrolling all loops for pipelining in function 'top' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:79).
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) because its parent loop or function is pipelined.
+WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:63) because its parent loop or function is pipelined.
+INFO: [HLS 200-489] Unrolling loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) in function 'top' completely with a factor of 2.
+INFO: [HLS 200-489] Unrolling loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:63) in function 'top' completely with a factor of 2.
+INFO: [HLS 200-489] Unrolling loop 'Loop-3' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:68) in function 'top' completely with a factor of 2.
+INFO: [HLS 200-489] Unrolling loop 'update' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:23) in function 'top' completely with a factor of 2.
+INFO: [HLS 200-489] Unrolling loop 'shift_reg' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:39) in function 'top' completely with a factor of 3.
+INFO: [XFORM 203-101] Partitioning array 'perceptron.V'  in dimension 2 completely.
+INFO: [XFORM 203-101] Partitioning array 'bht'  in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'weight.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:51) in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'sign.V' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:52) in dimension 1 completely.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock to (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:15:9) in function 'top'... converting 7 basic blocks.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:14 . Memory (MB): peak = 955.164 ; gain = 860.773
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.4' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:18:60)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.4' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:20:60)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:26:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:28:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32:69)
+INFO: [HLS 200-472] Inferring partial write operation for 'perceptron.V.0' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:34:69)
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:14 . Memory (MB): peak = 955.164 ; gain = 860.773
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'top' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'top'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_0_addr_write_ln32', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'.
+WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)
+   between 'store' operation ('perceptron_V_0_addr_write_ln32', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 3, Depth = 3.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 13.894 seconds; current allocated memory: 116.197 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.121 seconds; current allocated memory: 116.603 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'top' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/pc_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/isBranch_V' to 's_axilite & ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'top/result_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'top' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'bht_0' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_1' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_2' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'bht_3' is power-on initialization.
+INFO: [RTGEN 206-100] Bundling port 'pc_V', 'isBranch_V' and 'result_V' to AXI-Lite port bp0.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'top'.
+INFO: [HLS 200-111]  Elapsed time: 0.237 seconds; current allocated memory: 117.393 MB.
+INFO: [HLS 200-789] **** Estimated Fmax: 115.73 MHz
+INFO: [RTMG 210-278] Implementing memory 'top_perceptron_V_4_ram (RAM)' using distributed RAMs with power-on initialization.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:05 ; elapsed = 00:00:16 . Memory (MB): peak = 955.164 ; gain = 860.773
+INFO: [VHDL 208-304] Generating VHDL RTL for top.
+INFO: [VLOG 209-307] Generating Verilog RTL for top.
+INFO: [HLS 200-112] Total elapsed time: 15.708 seconds; peak allocated memory: 117.393 MB.

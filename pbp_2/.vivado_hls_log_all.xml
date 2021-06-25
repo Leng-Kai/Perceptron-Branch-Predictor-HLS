@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [RTGEN 206-101] Register 'bht_3' is power-on initialization." projectName="pbp_2" solutionName="solution1" date="2021-06-25T15:47:28.689+0800" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'bht_2' is power-on initialization." projectName="pbp_2" solutionName="solution1" date="2021-06-25T15:47:28.673+0800" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'bht_1' is power-on initialization." projectName="pbp_2" solutionName="solution1" date="2021-06-25T15:47:28.658+0800" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'bht_0' is power-on initialization." projectName="pbp_2" solutionName="solution1" date="2021-06-25T15:47:28.642+0800" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)&#xD;&#xA;   between 'store' operation ('perceptron_V_0_addr_write_ln32', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'." projectName="pbp_2" solutionName="solution1" date="2021-06-25T15:47:28.314+0800" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-68] The II Violation in module 'top' (Function: top): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)&#xD;&#xA;   between 'store' operation ('perceptron_V_0_addr_write_ln32', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87) of variable 'add_ln701_1', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:32->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:87 on array 'perceptron_V_0' and 'load' operation ('perceptron_V_0_load', ../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:60->../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:86) on array 'perceptron_V_0'." projectName="pbp_2" solutionName="solution1" date="2021-06-25T15:47:28.302+0800" type="Warning"/>
+        <logs message="WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-2' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:63) because its parent loop or function is pipelined." projectName="pbp_2" solutionName="solution1" date="2021-06-25T15:47:27.825+0800" type="Warning"/>
+        <logs message="WARNING: [XFORM 203-505] Ignored pipeline directive for loop 'Loop-1' (../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp:58) because its parent loop or function is pipelined." projectName="pbp_2" solutionName="solution1" date="2021-06-25T15:47:27.806+0800" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

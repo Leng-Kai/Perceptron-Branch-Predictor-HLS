@@ -1,0 +1,200 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../../../Users/lin/Desktop/HLS_Final/pbp_2/perceptronBranchPredictor.cpp in debug mode
+   Generating csim.exe
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 0, result: 0
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 0, result: 0
+=======================
+pc: 65988
+predict: 0, result: 0
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 0, result: 0
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 1, result: 0
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+pc: 65988
+predict: 0, result: 1
+=======================
+pc: 65988
+predict: 1, result: 1
+=======================
+miss: 31 / 64
+miss rate: 0.484375
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
